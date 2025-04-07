@@ -1,12 +1,12 @@
-# Blockchain News Analyzer with RAG
+# Web Scraper with RAG
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-Real-time analysis of blockchain news using Retrieval-Augmented Generation.
+Scrape information for given sites using Retrieval-Augmented Generation.
 
 ## Features
-- Web scraping of crypto news sites
+- Web scraping
 - NLP preprocessing pipeline
 - FAISS-based document retrieval
 - Zephyr-7B LLM integration
