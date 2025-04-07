@@ -13,7 +13,7 @@ Real-time analysis of blockchain news using Retrieval-Augmented Generation.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/blockchain-news-analyzer.git
+git clone https://github.com/LaVonDavis/WebScraper_RAG_Combo.git
 cd blockchain-news-analyzer
 pip install -r requirements.txt
 python -m spacy download en_core_web_lg
